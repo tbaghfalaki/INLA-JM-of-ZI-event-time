@@ -12,3 +12,5 @@ The files include:
 
 4) The code for drawing a plot of the estimated curve by the joint partially linear model for ZI and event time.
 
+5) The R codes for the analysis of the data sets (Pregnancy data and HIV data).
+
